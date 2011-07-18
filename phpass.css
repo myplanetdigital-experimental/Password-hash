@@ -1,0 +1,5 @@
+
+// hide on page load when JS is enabled, taken from 6.x system.css
+html.js .js-hide {
+  display: none;
+}
